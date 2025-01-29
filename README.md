@@ -1,10 +1,10 @@
 # Hi 👋, I'm Md Irshad Alam.
 
+<img align="right" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="position:relative; top:-20px;">
 ### A passionate MERN-stack developer from India
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="position:relative; top:-20px;">
 
-- 🌱 I’m currently learning **React & DSA**
+- 🌱 I’m currently learning **React & DSA**.
 - 📫 Reach me via email at: [irshadsidd@02gmail.com](mailto:irshadsidd@02gmail.com)
 
 ## Connect with me:
