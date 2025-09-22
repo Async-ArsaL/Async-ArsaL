@@ -4,7 +4,7 @@
  A passionate MERN-stack developer from India
 
 
-- 🌱 I’m currently learning **React & DSA**.
+- 🌱 I’m currently learning **Next & DSA**.
 - 📫 Reach me via email at: [irshadsidd@02gmail.com](mailto:irshadsidd@02gmail.com)
 ## Connect with me:
 
